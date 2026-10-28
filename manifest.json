@@ -1,0 +1,27 @@
+{
+  "name": "Free Blackjack Online",
+  "short_name": "Blackjack",
+  "description": "Play the classic casino card game blackjack for free. Dealer stands on 17, blackjack pays 3:2. Virtual chips only.",
+  "start_url": "https://vip-4.github.io/free-blackjack/",
+  "scope": "https://vip-4.github.io/free-blackjack/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#04160d",
+  "theme_color": "#04160d",
+  "lang": "en",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    {
+      "src": "https://vip-4.github.io/free-blackjack/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "https://vip-4.github.io/free-blackjack/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
